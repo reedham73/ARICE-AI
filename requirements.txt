@@ -1,0 +1,7 @@
+google-genai
+SpeechRecognition
+PyAudio
+gTTS
+pygame
+pywin32
+pyautogui
