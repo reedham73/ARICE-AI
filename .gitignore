@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+arice_history/
+arice_memory.json
+*.mp3
